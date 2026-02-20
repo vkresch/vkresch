@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Viktor 👋
+
+### Current Projects
+- [somantic.net](https://www.somantic.net/) - Real estate search engine and valuation for Germany powered by AI
+- [reviewjanitor.com](https://reviewjanitor.com/) - Help Amazon sellers identify and remove policy-violating reviews from their products
+- [PantryOS](https://play.google.com/store/apps/details?id=com.kretronik.pantry) - Automate your pantry and get recipe recommendations
+
+### Latest Blog Posts
+- [Stop Asking "What’s for Dinner?" - Meet PantryOS](https://kreschenski.com/post/22/)
+- [Talk to Your Property: Introducing Somantic’s New AI Real Estate Chatbot for Germany](https://kreschenski.com/post/21/)
+- [Converting PDF Invoices to XRechnung – Why I Built pdftoxrechnung.de](https://kreschenski.com/post/18/)
 
 <!--
 **vkresch/vkresch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
