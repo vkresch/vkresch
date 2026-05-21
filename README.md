@@ -2,7 +2,7 @@
 
 ### Current Projects
 - [somantic.net](https://www.somantic.net/) - Real estate search engine and valuation for Germany powered by AI
-- [reviewjanitor.com](https://reviewjanitor.com/) - Help Amazon sellers identify and remove policy-violating reviews from their products
+- [reviewjanitor](https://github.com/vkresch/reviewjanitor) - Help Amazon sellers identify and remove policy-violating reviews from their products
 - [PantryOS](https://play.google.com/store/apps/details?id=com.kretronik.pantry) - Automate your pantry and get recipe recommendations
 
 ### Latest Blog Posts
